@@ -1,5 +1,6 @@
 package league;
 
+//teams enum
 public enum Team {
     TEAM1("Team 1"),
     TEAM2("Team 2"),
